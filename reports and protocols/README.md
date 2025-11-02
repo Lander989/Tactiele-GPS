@@ -1,4 +1,4 @@
-Add PDF versions of your reports here.   
+Add PDF versions of your protocols and reports here.   
    
 - ❗Make sure this data is pseudonomized (give an alias to your respondent)    
 - ❗Don't share personal information here.   

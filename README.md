@@ -1,7 +1,7 @@
 # Projecttitel
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+*Tactiele GPS: een navigatiesysteem voor blinden dat hen tijdens hun traject begeleidt aan de hand van tactiele snapshots van de omgeving.* 
 
-🛠️ Built by ``Lander Dumont`` & ``Naam 2``   
+🛠️ Built by ``Corbin Breakevelt`` & ``Lander Dumont`` & ``Roland Derynck``    
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 

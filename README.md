@@ -8,15 +8,14 @@
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Tijdens dit project hebben we de wereld van blinden leren kennen. We bezochten een blindenbeurs en gingen in gesprek met mensen met een visuele beperking. Daarbij spraken we over uiteenlopende onderwerpen en verzamelden we veel inzichten.
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
+Een van de belangrijkste observaties die we deden, is de manier waarop blinden zich verplaatsen. We merkten dat zij vaak afhankelijk zijn van aangeleerde trajecten. Deze routes leren zij stap voor stap aan, en na voldoende training kunnen ze deze zelfstandig afleggen.
+
+Hierop wilden wij inspelen door een oplossing te ontwikkelen die hen hierin ondersteunt. Dit doen we aan de hand van een tactiele GPS. Met behulp van een braillescherm of pin-matrix kunnen blinden een tactiele ‘snapshot’ van hun omgeving voelen. Op die manier kunnen zij de omgeving op een voelbare manier begrijpen. Waar conventionele hulpmiddelen vaak enkel gefocust zijn op de exacte route, biedt dit hulpmiddel een breder beeld van de omgeving.
+
 <p align="center">
-  <img src="img/hero_example.png" width="100%">
+  <img src="img/Tactile GPS.jpg" width="100%">
 </p>
 
 ## Introductie

@@ -8,7 +8,7 @@
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-Tijdens dit project hebben we de wereld van blinden leren kennen. We bezochten een blindenbeurs en gingen in gesprek met mensen met een visuele beperking. Daarbij spraken we over uiteenlopende onderwerpen en verzamelden we veel inzichten.
+In de eerste fase van dit project hebben we de wereld van blinden leren kennen. We bezochten een blindenbeurs en gingen in gesprek met mensen met een visuele beperking. Daarbij spraken we over uiteenlopende onderwerpen en verzamelden we veel inzichten.
 
 Een van de belangrijkste observaties die we deden, is de manier waarop blinden zich verplaatsen. We merkten dat zij vaak afhankelijk zijn van aangeleerde trajecten. Deze routes leren zij stap voor stap aan, en na voldoende training kunnen ze deze zelfstandig afleggen.
 

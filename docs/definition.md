@@ -12,3 +12,20 @@ Leg uit welke testen werden uitgevoerd.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen.
+
+
+De werking gaat als volgt:
+
+<p align="center">
+  <img src="../img/StoryBoard.jpg" width="100%">
+</p>
+
+Hoe zo een toestel er uit kan zien:
+
+<p align="center">
+  <img src="../img/Tactile GPS.jpg" width="100%">
+</p>
+
+ 
+
+In de definitiefase werken we dit concept verder uit door het te concretiseren, inhoudelijk te onderbouwen en kritisch te toetsen op haalbaarheid en relevantie voor de doelgroep. De nadruk ligt hierbij op designing the right thing: het ontwikkelen van een oplossing die vertrekt vanuit reële noden en inzichten, en niet louter vanuit technologische mogelijkheden.

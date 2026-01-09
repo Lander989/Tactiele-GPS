@@ -2,50 +2,82 @@
 Max. 1000 woorden.   
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
 ### Doestellingen
-Het doel van de discoveryfase was om inzicht te verwerven in de leefwereld van blinde en slechtziende personen, met als focus hun dagelijkse leven en uitdagingen ontdekken.
+Het doel van de discoveryfase was om inzicht te verwerven in de leefwereld van blinde en slechtziende personen, met als focus hun dagelijkse leven en uitdagingen ontdekken. Uitendelijk willen we uit deze inzichten een "how might we"vraag opstellen.
 
 ### Materiaal & methoden
-Tijdens de discorvey fase gebruiken we verschillende kwalitatieve onderzoeksmethoden. De protocollen zijn hier te lezen: (link)
+Tijdens de discorvey fase gebruiken we verschillende kwalitatieve onderzoeksmethoden. Wat de meest uitdagende taak bleek was het rondsellen van respondenten. Gelukkig was er toevallig in die periode een beurs.
+<style>
+img {
+  float: right;
+  border: 4px solid white;
+  margin: 0px 0px 15px 20px;
+}
+</style>
 
-#### Interviews
+<p float: right>
+  <img src="../img/BrailleTech.jpeg" width="50%">
+</p>
 
-De eerste interviews waren breed opgezet en behandelden verschillende thema's, waaronder mobiliteit, communicatie, sociale media, vrije tijd, hobby's en veiligheid. Op basis van deze verkennende gesprekken besloten we ons verder te focussen op mobiliteit, en meer specifiek op navigatie.
-
-#### Observatie
-
-Daarnaast bezochten we de jaarlijkse Brailletech-beurs. Tijdens deze beurs werden de nieuwste hulpmiddelen voor blinde en slechtziende gebruikers voorgesteld. De beurs bood een waardevolle gelegenheid om:
+We  bezochten de jaarlijkse Brailletech-beurs. Tijdens deze beurs werden de nieuwste hulpmiddelen voor blinde en slechtziende gebruikers voorgesteld. De beurs bood een waardevolle gelegenheid om:
 
 - in contact te komen met blinde en slechtziende bezoekers;
 - te spreken met experts en ontwikkelaars van hulpmiddelen (zoals Sensotec);
 - inzicht te krijgen in bestaande technologieën en ondersteuningsinitiatieven.
 
-Tijdens deze bijeenkomst namen we een observerende houding aan, met als doel zoveel mogelijk relevante informatie te verzamelen. Tegelijk voerden we gesprekken en interviews met bezoekers, waarbij we specifiek ingingen op hun verplaatsing naar de beurs en de obstakels die zij onderweg ondervonden. Hiernaast luisterden we met veel plezier naar andere frustraties, problemen en zorgen die ze spontaan te vertellen hadden.
+Daarnaast kwamen we via vrienden en familie in contact met enkele bereidwillige slechtziende personen die openstonden om ons verder te ondersteunen tijdens het project.
+
+Ook bezochten we het oogatelier van Licht en Liefde in Kortrijk, een ontmoetingsplaats voor blinde en slechtziende personen. Hier konden we ook terecht om mensen te interviewen.
+
+#### Interviews
+Het protocol van de interviews is hier te lezen: [Protocol interviews](<../reports and protocols/Protocol Interviews.pdf>)
+
+Het eerste interview was breed opgezet en behandelde verschillende thema's, waaronder mobiliteit, communicatie, sociale media, vrije tijd, hobby's en veiligheid. Op basis van dit verkennend gesprek besloten we ons verder te focussen op mobiliteit, en meer specifiek op navigatie.
+
+Met een focus op navigatie zijn we naar de braillebeurs getrokken.
 
 #### Benchmarks en literatuurstudie
 
-Naast de interviews voerden we ook benchmarks en literatuurstudies uit naar bestaande hulpmiddelen en technologieën, om een breder beeld te krijgen van het huidige aanbod en de bestaande oplossingen.
+Naast de interviews voerden we ook benchmarks en literatuurstudies uit naar bestaande hulpmiddelen en technologieën, om een breder beeld te krijgen van het huidige aanbod en de bestaande oplossingen. Protocols ----
 
 ### Resultaten
-Uit de interviews, observaties en literatuurstudie kwamen verschillende terugkerende inzichten naar voren. De rapporten hiervan zijn hier te lezen ….(link).
 
-Een van de belangrijkste bevindingen was dat veel blinde personen, en in het bijzonder volledig blinde gebruikers, sterk afhankelijk zijn van aangeleerde trajecten. Zij kunnen zich zelfstandig verplaatsen zolang een route vooraf wordt aangeleerd en regelmatig wordt onderhouden.
+#### Inzichten uit de interviews en observaties:
 
-Dit werd onder meer geïllustreerd door het verhaal van Pieter-Jan, die volledig blind is. Hij gaf aan dat hij samen met zijn slechtziende vrouw routes uitstippelt in hun thuisstad Antwerpen. Dit toont aan dat zelfstandige mobiliteit vaak het resultaat is van bewuste voorbereiding, herhaling en ondersteuning.
+Er werden drie interviews afgenomen met blinde en slechtziende personen, aangevuld met informele gesprekken met organisaties en bedrijven op de Brailletech-beurs. Het doel was inzicht te krijgen in hun leefwereld, met een specifieke focus op mobiliteit en navigatie. Ondanks verschillen in leeftijd en context kwamen in alle gesprekken gelijkaardige patronen naar voren.
 
-Ook op organisatieniveau werd dit bevestigd. De Brailleliga, organisator van de Brailletech-beurs, biedt oriëntatie- en mobiliteitstrainingen aan. In deze trainingen leren blinde en slechtziende personen hoe zij zich veilig en zelfstandig kunnen verplaatsen in hun omgeving, met een sterke nadruk op veiligheid.
+Een centraal inzicht is dat zelfstandige mobiliteit voor blinde personen sterk steunt op aangeleerde trajecten. Routes worden bewust voorbereid, ingeoefend en onderhouden, vaak met ondersteuning van een vertrouwd persoon. Onvoorspelbare factoren zoals wegenwerken, foutieve of slecht onderhouden infrastructuur en drukke stedelijke omgevingen zorgen voor onzekerheid en frustratie. Navigeren in binnenruimtes, zoals openbare gebouwen, blijkt daarbij vaak moeilijker dan buiten.
 
-Daarnaast bleek uit de benchmarks dat bestaande hulpmiddelen vaak focussen op realtime navigatie, maar minder ondersteuning bieden bij het langdurig aanleren en onderhouden van trajecten.
+Digitale hulpmiddelen zoals gps-apps en smartphones worden gebruikt, maar blijken niet altijd betrouwbaar of praktisch in gebruik. Betrouwbaarheid en accuraatheid zijn essentieel,twijfel tijdens het navigeren wordt als onaanvaardbaar ervaren. Daarnaast blijkt gezelschap een belangrijke rol te spelen in het gevoel van veiligheid en vertrouwen.
+
+Belangrijkste bevindingen:
+
+- Sterke afhankelijkheid van aangeleerde trajecten
+
+- Grote impact van infrastructuur en onderhoud
+
+- Beperkingen van bestaande digitale hulpmiddelen
+
+- Betrouwbaarheid van hulpmiddelen is essentieel
+
+- Cruciale rol van vertrouwen, veiligheid en gezelschap
+
+
+#### Inzichten uit de literatuur studie:
+
+De geraadpleegde literatuur toont aan dat blinde personen effectief ondersteund kunnen worden door verschillende technologieën die tastzin, gehoor en beweging gebruiken of combineren. Hoewel traditionele hulpmiddelen zoals de witte stok en oriëntatietrainingen essentieel blijven, wijst onderzoek op een aanzienlijk potentieel van tactiele en haptische feedbacksystemen. Daarnaast tonen verschillende studies aan dat het gebruik van braillekaarten het oriëntatievermogen versterkt en bijdraagt aan het opbouwen van mentale kaarten van de omgeving.
+
+Een terugkerend aandachtspunt in de literatuur is dat hulpmiddelen eenvoudig, betrouwbaar en gebruiksvriendelijk moeten blijven. Daarnaast benadrukken meerdere studies het belang van co-creatie: oplossingen die ontwikkeld worden in nauwe samenwerking met de doelgroep sluiten beter aan bij reële noden.
+
+Opvallend is dat veel technologische oplossingen voornamelijk getest worden in gecontroleerde of gesimuleerde omgevingen. De overgang naar complexe, onvoorspelbare real-life contexten blijkt daarbij vaak een struikelblok, waardoor het product uitendelijk faalt.
+
+
 ### Conclusies & implicaties
-Op basis van de discoveryfase formuleerden we de centrale ontwerpvraag van dit project en vonden we een eerste concept om rond te werken:
 
-Hoe kunnen we blinde personen ondersteunen bij het aanleren en onderhouden van trajecten?
+Een van de belangrijkste bevindingen uit dit onderzoek is dat veel blinde personen, en in het bijzonder volledig blinde gebruikers, sterk steunen op aangeleerde trajecten. Zelfstandige verplaatsing is voor hen mogelijk zolang een route vooraf zorgvuldig wordt aangeleerd en door regelmatige herhaling wordt onderhouden.
 
-Deze vraag vertrekt niet vanuit technologie, maar vanuit het inzicht dat zelfstandige mobiliteit sterk samenhangt met kennis, herhaling en vertrouwen in aangeleerde routes.
+Dit inzicht werd onder meer geïllustreerd door het verhaal van Pieter-Jan, die volledig blind is. <em>Hij gaf aan dat hij samen met zijn slechtziende vrouw routes uitstippelt in hun thuisstad Antwerpen.</em> Dit voorbeeld toont aan dat zelfstandige mobiliteit niet spontaan ontstaat, maar het resultaat is van bewuste voorbereiding, herhaling en externe ondersteuning.
 
-Als eerste conceptuele richting ontstond het idee van een tactiel navigatiesysteem, een soort van "tactiele gps". Dit concept wordt niet gezien als een eindoplossing, maar als een eerste concept om te exploreren. De werking gaat als volgt:
+Op basis van dit inzicht creeëren we De "How Might We" vraag:
+>'Hoe kunnen we blinde personen ondersteunen bij het aanleren en onderhouden van trajecten?'
 
-<p align="center">
-  <img src="img/StoryBoard" width="100%">
-</p>
-
-In de definitiefase werken we dit concept verder uit door het te concretiseren, inhoudelijk te onderbouwen en kritisch te toetsen op haalbaarheid en relevantie voor de doelgroep. De nadruk ligt hierbij op designing the right thing: het ontwikkelen van een oplossing die vertrekt vanuit reële noden en inzichten, en niet louter vanuit technologische mogelijkheden.
+Als eerste conceptuele richting ontstond het idee van een tactiel navigatiesysteem, een soort van "tactiele gps".

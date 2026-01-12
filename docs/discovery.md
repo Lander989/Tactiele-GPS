@@ -2,10 +2,12 @@
 Max. 1000 woorden.   
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
 ### Doestellingen
-Het doel van de discoveryfase was om inzicht te verwerven in de leefwereld van blinde en slechtziende personen, met als focus hun dagelijkse leven en uitdagingen ontdekken. Uitendelijk willen we uit deze inzichten een "how might we"vraag opstellen.
+Het doel van de discoveryfase was om inzicht te verkrijgen in de leefwereld van blinde en slechtziende personen. Met als focus hun dagelijkse leven en uitdagingen ontdekken. Uitendelijk willen we uit deze inzichten een "how might we" vraag opstellen. 
 
 ### Materiaal & methoden
-Tijdens de discorvey fase gebruiken we verschillende kwalitatieve onderzoeksmethoden. Wat de meest uitdagende taak bleek was het rondsellen van respondenten. Gelukkig was er toevallig in die periode een beurs.
+Tijdens de discorvey fase gebruiken we verschillende kwalitatieve onderzoeksmethoden. We voerden interviews, benchmarks en een literatuur studie uit.
+
+Wat de meest uitdagende taak bleek was het rondsellen van respondenten. Gelukkig was er toevallig in die periode een beurs.
 <style>
 img {
   float: right;
@@ -15,7 +17,7 @@ img {
 </style>
 
 <p float: right>
-  <img src="../img/BrailleTech.jpeg" width="50%">
+  <img src="../img/BrailleTech.jpeg" href="https://www.braille.be/nl/dienstverlening/brailletech" width="50%">
 </p>
 
 We  bezochten de jaarlijkse Brailletech-beurs. Tijdens deze beurs werden de nieuwste hulpmiddelen voor blinde en slechtziende gebruikers voorgesteld. De beurs bood een waardevolle gelegenheid om:
@@ -24,7 +26,7 @@ We  bezochten de jaarlijkse Brailletech-beurs. Tijdens deze beurs werden de nieu
 - te spreken met experts en ontwikkelaars van hulpmiddelen (zoals Sensotec);
 - inzicht te krijgen in bestaande technologieën en ondersteuningsinitiatieven.
 
-Daarnaast kwamen we via vrienden en familie in contact met enkele bereidwillige slechtziende personen die openstonden om ons verder te ondersteunen tijdens het project.
+Daarnaast kwamen we via vrienden en familie in contact met een bereidwillige slechtziende persoon die openstond om ons verder te ondersteunen tijdens het project.
 
 Ook bezochten we het oogatelier van Licht en Liefde in Kortrijk, een ontmoetingsplaats voor blinde en slechtziende personen. Hier konden we ook terecht om mensen te interviewen.
 
@@ -37,7 +39,9 @@ Met een focus op navigatie zijn we naar de braillebeurs getrokken.
 
 #### Benchmarks en literatuurstudie
 
-Naast de interviews voerden we ook benchmarks en literatuurstudies uit naar bestaande hulpmiddelen en technologieën, om een breder beeld te krijgen van het huidige aanbod en de bestaande oplossingen. Protocols ----
+Protocol van de literatuurstudie: [Protocol literatuurstudie](<../reports and protocols/Protocol Literatuur Studie.pdf>)
+
+Naast de interviews voerden we ook benchmarks en literatuurstudies uit naar bestaande hulpmiddelen en technologieën, om een breder beeld te krijgen van het huidige aanbod en de bestaande oplossingen. 
 
 ### Resultaten
 
@@ -80,4 +84,4 @@ Dit inzicht werd onder meer geïllustreerd door het verhaal van Pieter-Jan, die 
 Op basis van dit inzicht creeëren we De "How Might We" vraag:
 >'Hoe kunnen we blinde personen ondersteunen bij het aanleren en onderhouden van trajecten?'
 
-Als eerste conceptuele richting ontstond het idee van een tactiel navigatiesysteem, een soort van "tactiele gps".
+Als eerste conceptuele richting ontstond het idee van een tactiel navigatiesysteem, een soort van "tactiele gps". Met dit concept starten we de definitie fase.

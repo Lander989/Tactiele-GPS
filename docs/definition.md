@@ -112,7 +112,8 @@ Zoals bij de vorige iteratie werd bij deze test ook nog eens gepolst naar de bru
 <p align="center">
   <img src="../img/test kaart.jpg" width="25%">
 </p>
-Er werd met twee personen een voor-geplande route afgelegd.
+Alle vrijwilligen kregen de kaart in handen en deelden in groep hun mening.
+Er werd daarna met twee personen een voor-geplande route afgelegd waarbij ze de kaartjes gebruikten om hun weg te vinden.
 
 #### 2.Gebruiksmethode
 Blinden en slecht zienden lopen bijna altijd met de stok rond hierdoor is er dus nog maar een van hun handen vrij wanneer ze op stap gaan. Daardoor willen we testen op welke manier het product kan gedragen worden. Hiervoor hebben we drie opstellingen: het product los in de ene hand , het product bevestigd aan de arm met behulp van een brace, het product met daaraan een lanyard voor rond de nek te draggen.
@@ -123,3 +124,16 @@ Blinden en slecht zienden lopen bijna altijd met de stok rond hierdoor is er dus
   <img src="../img/lanyard opstelling.jpg" width="25%">
 </p>
 De testpersonen kregen elk individueel alle verschillende opstellingen in de hand en mochten daarmee dan ook rondlopen. De meningen van iedereen werden ook in groep besproken.
+
+#### 3.Bedienings elementen
+
+Het product moet natuurlijk te besturen zijn , hiervoor zijn dan ook verschillende inputs voor nodig. Voor dit te testen werd gebruikgemaakt van een adaptief prototype met velcro waar verschillende soorten knoppen, draaiwielen, sliders en joysticks aan bevestigd kunnen worden.
+<p align="center">
+  <img src="../img/input test.jpg" width="25%">
+</p>
+Deze kunnen dan georiënteerd worden zoals de gebruiker ze het liefst wilt.
+
+### resultaten
+Bij het gebruik van de kaarten waren er meerderen elementen die beter konden. Zo was de kaart niet duidelijk genoeg om een voldoende beeld te krijgen van de omgeving, was er geen verschil in reliëf dus konden trappen en verhogingen niet aangeduid worden, en was er moeite om de kaart duidelijk te oriënteren.
+Het ontwerp met de lanyard bleek goede positieve feedback te hebben, het ontwerp met de brace rond de arm bleek onhandig en zwaar.
+Als input methodes is het gebleken dat knopen met een “sense of range” het beste waren, dit zijn bv de slider en de navigatie pijlen.

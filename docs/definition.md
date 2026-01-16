@@ -1,6 +1,7 @@
 ## Definition
 Max. 1000 woorden.    
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+# Iteratie 1 
 ### Doestellingen
 
 In het kader van deelopdracht 2 (Definition Phase) werd een eerste reeks low-fidelity prototypes ontwikkeld. Het doel van deze iteratie was om te onderzoeken of het onderliggende concept een tactiele kaart als ruimtelijk referentiekader begrijpelijk, bruikbaar en zinvol is voor personen met een visuele beperking. De focus lag hierbij expliciet op “Design the Right Thing”, vóór verdere technologische verfijning.
@@ -97,3 +98,28 @@ Hoe zo een toestel er uit kan zien:
  
 
 In de definitiefase werken we dit concept verder uit door het te concretiseren, inhoudelijk te onderbouwen en kritisch te toetsen op haalbaarheid en relevantie voor de doelgroep. De nadruk ligt hierbij op designing the right thing: het ontwikkelen van een oplossing die vertrekt vanuit reële noden en inzichten, en niet louter vanuit technologische mogelijkheden.
+# Iteratie 2
+Bij de tweede iteratie van het prototype was het doel om na te gaan welke vorm en functionaliteit een hulpmiddel voor blinden en slechtzienden moet hebben. Ons concept bestaat uit een tactiele kaart die gebruikers helpt zich te oriënteren op een grondplan, aangevuld met knoppen die interactie mogelijk maken (zoals zoom, navigatie en extra feedback).Alles testen bij deze iteratie werden gedaan met de mensen ven het oogatelier Kortrijk(testpersonen n=6  ).
+
+De inzichten die we wouden krijgen met deze iteratie warren:
+-	Verdere testen van de tactiele kaart 
+-	Wat is de makkelijkste manier waarop zo een product kan gedragen worden?
+-	Welke functie zijn nodig om het product bruikbaar te maken? (In de zin van: inzoomen op kaart, geluid instellen, bewegen met de kaart,…)
+-	Welke soorten knoppen zijn nodig om de functies uit te voeren en welke soort interfaces zijn bruikbare voor blinden en slechtzienden?
+### Materiaal & methoden
+#### 1.tactiele kaart
+Zoals bij de vorige iteratie werd bij deze test ook nog eens gepolst naar de bruikbaarheid van de tactiele kaart.
+<p align="center">
+  <img src="../img/test kaart.jpg" width="25%">
+</p>
+Er werd met twee personen een voor-geplande route afgelegd.
+
+#### 2.Gebruiksmethode
+Blinden en slecht zienden lopen bijna altijd met de stok rond hierdoor is er dus nog maar een van hun handen vrij wanneer ze op stap gaan. Daardoor willen we testen op welke manier het product kan gedragen worden. Hiervoor hebben we drie opstellingen: het product los in de ene hand , het product bevestigd aan de arm met behulp van een brace, het product met daaraan een lanyard voor rond de nek te draggen.
+<p align="center">
+  <img src="../img/armband opstelling.jpg" width="25%">
+</p>
+<p align="center">
+  <img src="../img/lanyard opstelling.jpg" width="25%">
+</p>
+De testpersonen kregen elk individueel alle verschillende opstellingen in de hand en mochten daarmee dan ook rondlopen. De meningen van iedereen werden ook in groep besproken.

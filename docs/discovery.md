@@ -33,6 +33,7 @@ Ook bezochten we het oogatelier van Licht en Liefde in Kortrijk, een ontmoetings
 #### Interviews
 we gingen elk appart op stap om respondenten te interviewen. Daarvoor maakten we elk ons eigen protecol en rapport.
 De protocol van de interviews zijn hier te lezen: 
+
  [- Lander: Protocol interviews](<../reports and protocols/Protocol Interviews.pdf>)
 
  [- Roland: Protocol interviews](<../>)
@@ -40,6 +41,7 @@ De protocol van de interviews zijn hier te lezen:
  [- Corbin: Protocol interviews](<../reports and protocols/Interview-protocol-Corbin_Braekevelt.pdf>)
 
 De rapports zijn hier te lezen: 
+
 [- Lander: Rapport interviews](<../reports and protocols/Rapport Interviews.pdf>)
 
 [- Roland: Rapport interviews](<../reports and protocols/Analyse respondenten rapport.pdf>)
@@ -55,6 +57,7 @@ Met een focus op navigatie zijn we naar de braillebeurs getrokken.
 Protocollen van de literatuurstudies: 
 Naast de interviews voerden we ook benchmarks en literatuurstudies uit naar bestaande hulpmiddelen en technologieën, om een breder beeld te krijgen van het huidige aanbod en de bestaande oplossingen. 
 Hiervoor werden ook protocollen en raporten voor opgesteld:
+
 [- Lander: Protocol literatuurstudie](<../reports and protocols/Protocol Literatuur Studie.pdf>)
 
 [- Roland: Protocol benchmarking](<../>)

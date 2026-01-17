@@ -31,23 +31,38 @@ Daarnaast kwamen we via vrienden en familie in contact met een bereidwillige sle
 Ook bezochten we het oogatelier van Licht en Liefde in Kortrijk, een ontmoetingsplaats voor blinde en slechtziende personen. Hier konden we ook terecht om mensen te interviewen.
 
 #### Interviews
-Het protocol van de interviews is hier te lezen: [Protocol interviews](<../reports and protocols/Protocol Interviews.pdf>)
-
-Het eerste interview was breed opgezet en behandelde verschillende thema's, waaronder mobiliteit, communicatie, sociale media, vrije tijd, hobby's en veiligheid. Op basis van dit verkennend gesprek besloten we ons verder te focussen op mobiliteit, en meer specifiek op navigatie.
+we gingen elk appart op stap om respondenten te interviewen. Daarvoor maakten we elk ons eigen protecol en rapport.
+De protocol van de interviews zijn hier te lezen: 
+ [- Lander: Protocol interviews](<../reports and protocols/Protocol Interviews.pdf>)
+ [- Roland: Protocol interviews](<../>)
+ [- Corbin: Protocol interviews](<../reports and protocols/Interview-protocol-Corbin_Braekevelt.pdf>)
+De rapports zijn hier te lezen: 
+[- Lander: Rapport interviews](<../reports and protocols/Rapport Interviews.pdf>)
+[- Roland: Rapport interviews](<../reports and protocols/Analyse respondenten rapport.pdf>)
+[- Corbin: Rapport interviews](<../reports and protocols/Interview-raport-Corbin_Braekevelt.pdf>)
+De interviews waren breed opgezet en behandelde verschillende thema's, waaronder mobiliteit, communicatie, sociale media, vrije tijd, hobby's en veiligheid. Op basis van deze verkennende gesprekken besloten we ons verder te focussen op mobiliteit, en meer specifiek op navigatie.
 
 Met een focus op navigatie zijn we naar de braillebeurs getrokken.
 
 #### Benchmarks en literatuurstudie
 
-Protocol van de literatuurstudie: [Protocol literatuurstudie](<../reports and protocols/Protocol Literatuur Studie.pdf>)
-
+Protocollen van de literatuurstudies: 
 Naast de interviews voerden we ook benchmarks en literatuurstudies uit naar bestaande hulpmiddelen en technologieën, om een breder beeld te krijgen van het huidige aanbod en de bestaande oplossingen. 
+Hiervoor werden ook protocollen en raporten voor opgesteld:
+[- Lander: Protocol literatuurstudie](<../reports and protocols/Protocol Literatuur Studie.pdf>)
+[- Roland: Protocol benchmarking](<../>)
+[- Corbin: Protocol benchmarking](<../reports and protocols/benchmarking_protocol_corbin_braekevelt.pdf>)
+
+[- Lander: Rapport literatuurstudie](<../reports and protocols/Rapport Literatuur Studie.pdf>)
+[- Roland: Rapport benchmarking](<../reports and protocols/Competitor analysis.pdf>)
+[- Corbin: Rapport benchmarking](<../reports and protocols/benchmarking_raport_corbin_braekevelt.pdf>)
+
 
 ### Resultaten
 
 #### Inzichten uit de interviews en observaties:
 
-Er werden drie interviews afgenomen met blinde en slechtziende personen, aangevuld met informele gesprekken met organisaties en bedrijven op de Brailletech-beurs. Het doel was inzicht te krijgen in hun leefwereld, met een specifieke focus op mobiliteit en navigatie. Ondanks verschillen in leeftijd en context kwamen in alle gesprekken gelijkaardige patronen naar voren.
+Er werden verschillende interviews afgenomen met blinde en slechtziende personen, aangevuld met informele gesprekken met organisaties en bedrijven op de Brailletech-beurs. Het doel was inzicht te krijgen in hun leefwereld, met een specifieke focus op mobiliteit en navigatie. Ondanks verschillen in leeftijd en context kwamen in alle gesprekken gelijkaardige patronen naar voren.
 
 Een centraal inzicht is dat zelfstandige mobiliteit voor blinde personen sterk steunt op aangeleerde trajecten. Routes worden bewust voorbereid, ingeoefend en onderhouden, vaak met ondersteuning van een vertrouwd persoon. Onvoorspelbare factoren zoals wegenwerken, foutieve of slecht onderhouden infrastructuur en drukke stedelijke omgevingen zorgen voor onzekerheid en frustratie. Navigeren in binnenruimtes, zoals openbare gebouwen, blijkt daarbij vaak moeilijker dan buiten.
 
@@ -77,7 +92,7 @@ Opvallend is dat veel technologische oplossingen voornamelijk getest worden in g
 
 ### Conclusies & implicaties
 
-Een van de belangrijkste bevindingen uit dit onderzoek is dat veel blinde personen, en in het bijzonder volledig blinde gebruikers, sterk steunen op aangeleerde trajecten. Zelfstandige verplaatsing is voor hen mogelijk zolang een route vooraf zorgvuldig wordt aangeleerd en door regelmatige herhaling wordt onderhouden.
+Een van de belangrijkste bevindingen uit dit onderzoek is dat veel slechtzienden personen, en blinde gebruikers, sterk steunen op aangeleerde trajecten. Zelfstandige verplaatsing is voor hen mogelijk zolang een route vooraf zorgvuldig wordt aangeleerd en door regelmatige herhaling wordt onderhouden.
 
 Dit inzicht werd onder meer geïllustreerd door het verhaal van Pieter-Jan, die volledig blind is. <em>Hij gaf aan dat hij samen met zijn slechtziende vrouw routes uitstippelt in hun thuisstad Antwerpen.</em> Dit voorbeeld toont aan dat zelfstandige mobiliteit niet spontaan ontstaat, maar het resultaat is van bewuste voorbereiding, herhaling en externe ondersteuning.
 

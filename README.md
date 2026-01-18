@@ -47,6 +47,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=16)
+
   [- Lander: Protocol literatuurstudie](<./reports and protocols/Protocol Literatuur Studie.pdf>)
   
   [- Roland: Protocol benchmarking](<./>)
@@ -60,6 +61,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
   
   [- Corbin: Rapport benchmarking](<./reports and protocols/benchmarking_raport_corbin_braekevelt.pdf>)
 * Interviews (N=12)
+
    [- Lander: Protocol interviews](<./reports and protocols/Protocol Interviews.pdf>)
   
    [- Roland: Protocol interviews](<./reports and protocols/Interviewprotocol_slechtzienden_!.pdf>)

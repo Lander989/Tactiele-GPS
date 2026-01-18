@@ -97,5 +97,5 @@ You are free to reuse and build upon this work, both commercially and non-commer
 ## Bronnen
  [^1]:Abdelkhalek, M. (2019). Final Year Project Report - Blind Pad. University of Bath
 
- [^2]Brayda, L. et al. (2018). Updated Tactile Feedback with a Pin Array Matrix. Micromachines, 9(7), 351
+ [^2]:Brayda, L. et al. (2018). Updated Tactile Feedback with a Pin Array Matrix. Micromachines, 9(7), 351
 

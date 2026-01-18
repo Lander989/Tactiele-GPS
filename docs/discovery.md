@@ -114,3 +114,9 @@ Op basis van dit inzicht creeëren we De "How Might We" vraag:
 >'Hoe kunnen we blinde personen ondersteunen bij het aanleren en onderhouden van trajecten?'
 
 Als eerste conceptuele richting ontstond het idee van een tactiel navigatiesysteem, een soort van "tactiele gps". Met dit concept starten we de definitie fase.
+
+Design Requirements:
+- D1.1 aangeleerde trajecten onderhouden
+- D1.2 Nieuwe trajecten aanleren
+- D2.7 Docking station waar het product kan laden en een vaste plaats heeft
+- D2.4 UI geschikt voor blinden en slechtzienden

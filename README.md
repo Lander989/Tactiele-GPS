@@ -39,23 +39,41 @@ Licht toe op welke manier je AI gebruikte in dit project.
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* Interviews (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* Literatuuronderzoek (N=16)
+  [- Lander: Protocol literatuurstudie](<./reports and protocols/Protocol Literatuur Studie.pdf>)
+  
+  [- Roland: Protocol benchmarking](<./>)
+  
+  [- Corbin: Protocol benchmarking](<./reports and protocols/benchmarking_protocol_corbin_braekevelt.pdf>)
+  
+  
+  [- Lander: Rapport literatuurstudie](<./reports and protocols/Rapport Literatuur Studie.pdf>)
+  
+  [- Roland: Rapport benchmarking](<./reports and protocols/Competitor analysis.pdf>)
+  
+  [- Corbin: Rapport benchmarking](<./reports and protocols/benchmarking_raport_corbin_braekevelt.pdf>)
+* Interviews (N=12)
+   [- Lander: Protocol interviews](<./reports and protocols/Protocol Interviews.pdf>)
+  
+   [- Roland: Protocol interviews](<./reports and protocols/Interviewprotocol_slechtzienden_!.pdf>)
+  
+   [- Corbin: Protocol interviews](<./reports and protocols/Interview-protocol-Corbin_Braekevelt.pdf>)
+
+   [- Lander: Rapport interviews](<./reports and protocols/Rapport Interviews.pdf>)
+  
+   [- Roland: Rapport interviews](<./reports and protocols/Analyse respondenten rapport.pdf>)
+  
+   [- Corbin: Rapport interviews](<./reports and protocols/Interview-raport-Corbin_Braekevelt.pdf>)
     
 ### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* User testing wave 2 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* User testing wave 1 (N=6)
+  * [Protocol](<./reports and protocols/Protocol Wave 1.pdf>)
+  * [Rapport](<./reports and protocols/Verslag_wave1.pdf>)
+* User testing wave 2 (N=2)
+  * [Protocol](<./reports and protocols/Protocol Wave 2.pdf>)
+  * [Rapport](<./reports and protocols/Rapport Wave 2.pdf>)
 
 ## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 

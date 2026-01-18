@@ -36,7 +36,7 @@ De protocol van de interviews zijn hier te lezen:
 
  [- Lander: Protocol interviews](<../reports and protocols/Protocol Interviews.pdf>)
 
- [- Roland: Protocol interviews](<../>)
+ [- Roland: Protocol interviews](<../reports and protocols/Interviewprotocol_slechtzienden_!.pdf>)
 
  [- Corbin: Protocol interviews](<../reports and protocols/Interview-protocol-Corbin_Braekevelt.pdf>)
 

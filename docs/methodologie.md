@@ -1,8 +1,12 @@
 ## Methodologie
 Dit project volgt de principes van Human-Centered Design binnen het Triple Diamond-model. In dit eerste semester doorliepen we de fasen Discover en Define.
 
+<p align="center">
+  <img src="img\template_tijdlijn_visual.jpeg" width="50%">
+</p>
+
 Discover: Problem Finding
- 
+
 We startten met een literatuurstudie en benchmarking om de markt van hulpmiddelen te verkennen. Om de leefwereld van de doelgroep echt te begrijpen, voerden we etnografisch onderzoek uit op de Brailletech-beurs. Dit werd verdiept via user interviews (N=3), waarbij we specifiek focusten op navigatieproblemen en de analyse van concurrenten die ze momenteel gebruiken. Deze inzichten werden vertaald naar een persona en de centrale probleemstelling: “Hoe kunnen we blinde personen ondersteunen bij het aanleren en onderhouden van trajecten?”
 
 Define: Designing the Right Thing

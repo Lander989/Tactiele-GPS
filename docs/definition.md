@@ -75,6 +75,9 @@ Deelnemers legden een vooraf uitgestippeld traject af met opeenvolgende tactiele
 <p align="center">
   <img src="../img/Kaart traject.jpeg" width="50%">
 </p>
+<p align="center">
+  <img src="../img/eerste_test_fatboy.jpg" width="50%">
+</p>
 
 ### Resultaten
 

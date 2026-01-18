@@ -1,35 +1,36 @@
 ## Definition
-Max. 1000 woorden.    
-[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+
 # Iteratie 1 
 ### Doestellingen
 
 In het kader van deelopdracht 2 (Definition Phase) werd een eerste reeks low-fidelity prototypes ontwikkeld. Het doel van deze iteratie was om te onderzoeken of het onderliggende concept een tactiele kaart als ruimtelijk referentiekader begrijpelijk, bruikbaar en zinvol is voor personen met een visuele beperking. De focus lag hierbij expliciet op “Design the Right Thing”, vóór verdere technologische verfijning.
 
-De belangrijkste vragen en inzichten die we nodig hadden waren:
+De kerninzichten en onderzoeksvragen waren:
 
 - Hoe verloopt de interpretatie van tactiele kaartinformatie door gebruikers
 - De manier waarop gebruikers een tactiel oppervlak exploreren
 - De leesbaarheid en resolutie van de kaarten
-- Oriëntatie, schaal en bruikbaarheid van een tactiele kaart tijdens navigatie
+-	Welke functie zijn nodig om het product bruikbaar te maken? (In de zin van: inzoomen op kaart, geluid instellen, bewegen met de kaart,…)
 - De geschiktheid van verschillende interactiemethoden en draagwijzen
+
+De werking gaat als volgt:
+
+<p align="center">
+  <img src="../img/StoryBoard.jpg" width="75%">
+</p>
 
 ### Materiaal & methoden
 De eerste wave bouwen we op uit meerdere kleine testen waarmee we onze deelvragen beantwoorden. Hierna testen we het totaal concept.
 
-#### 1. Orientatie
+#### 1. Orientatie N = 10
 
-Studies tonen aan dat mensen kunnen navigeren op basis van tactiele informatie. In dit onderzoek verkennen we hoe gebruikers omgaan met tactiele oriëntatie en in welke mate een tactiele routeweergave helpt bij het afleggen van een parcours.
-
-De test werd uitgevoerd met tien geblinddoekte jongeren zonder visuele beperking, wat vraagt om een zorgvuldige contextuele interpretatie van de resultaten. De deelnemers kregen een tactiele LEGO-kaart met een vereenvoudigde weergave van een vooraf uitgestippeld parcours en de opdracht om dit zo snel mogelijk af te leggen.
-
-De deelnemers werden verdeeld in twee groepen: één groep kreeg een tactiele kaart met verbale instructies, de andere enkel verbale instructies. Tijdens de test observeerden we het gedrag van de deelnemers en registreerden we de benodigde tijd om het parcours te voltooien.
+Dit onderzoek verkent hoe gebruikers navigeren met tactiele oriëntatie en in welke mate een tactiele routeweergave helpt bij het afleggen van een parcours. De test werd uitgevoerd met tien geblinddoekte jongeren zonder visuele beperking, wat een zorgvuldige interpretatie van de resultaten vereist. De deelnemers kregen de opdracht een parcours zo snel mogelijk af te leggen, met behulp van een tactiele LEGO-kaart met vereenvoudigde routeweergave en/of verbale instructies. Er waren twee groepen: één met tactiele kaart en verbale instructies, en één met enkel verbale instructies. Tijdens de test werden gedrag en benodigde tijd geregistreerd.
 
 <p align="center">
   <img src="../img/LegoNavigatieTest.jpeg" width="50%">
 </p>
 
-#### 2. Kaart afmetingen
+#### 2. Kaart afmetingen N = 2
 Protocol
 
 We willen nagaan welke kaartresolutie het best tactiel waarneembaar is. Hiervoor legden we de testpersoon meerdere tactiele kaarten voor die allemaal hetzelfde patroon weergeven, maar verschillen in resolutie.
@@ -40,21 +41,34 @@ De testpersoon verkende elke kaart afzonderlijk en beschreef wat zij voelde. Aan
   <img src="../img/Resolutie.jpeg" width="50%">
 </p>
 
-#### 3. Draagwijzen en interactiemethoden
-Protocol
+#### 3. Draagwijzen N = 6 
+
+Blinden en slecht zienden lopen bijna altijd met de stok rond hierdoor is er dus nog maar een van hun handen vrij wanneer ze op stap gaan. Daardoor willen we testen op welke manier het product kan gedragen worden. Hiervoor hebben we drie opstellingen: het product los in de ene hand , het product bevestigd aan de arm met behulp van een brace, het product met daaraan een lanyard voor rond de nek te draggen.
+<p align="center">
+  <img src="../img/armband opstelling.jpg" width="25%">
+</p>
+<p align="center">
+  <img src="../img/lanyard opstelling.jpg" width="25%">
+</p>
+De testpersonen kregen elk individueel alle verschillende opstellingen in de hand en mochten daarmee dan ook rondlopen. De meningen van iedereen werden ook in groep besproken.
+
+#### 4. interactiemethoden N = 6 
+
+Het product moet natuurlijk te besturen zijn , hiervoor zijn dan ook verschillende inputs voor nodig. Voor dit te testen werd gebruikgemaakt van een adaptief prototype met velcro waar verschillende soorten knoppen, draaiwielen, sliders en joysticks aan bevestigd kunnen worden.
+<p align="center">
+  <img src="../img/input test.jpg" width="25%">
+</p>
+Deze kunnen dan georiënteerd worden zoals de gebruiker ze het liefst wilt.
 
 <p align="center">
-  <img src="../img/StoryBoard.jpg" width="50%">
+  <img src="../img/test kaart.jpg" width="50%">
 </p>
 
-#### 4. Concept validatie
-Protocol
 
-De test bestaat uit een vooraf uitgestippeld traject dat deelnemers afleggen aan de hand van opeenvolgende tactiele kaarten. Elke kaart toont een begin- en eindpunt; bij het bereiken van het eindpunt ontvangt de deelnemer een nieuwe kaart.
 
-Tijdens het interpreteren van de kaart passen we de think-aloud-methode toe: deelnemers verwoorden wat ze voelen en denken. Ze navigeren op hun eigen manier, met de kaart als leidraad. Alle kaarten zijn naar het noorden georiënteerd; deelnemers krijgen ook mee wanneer de GPS-richting overeenkomt met het noorden. Indien nodig grijpen we in om de veiligheid te garanderen.
+#### 5. Concept validatie N = 2 
 
-Tijdens de test bevragen we hoe goed deelnemers hun omgeving begrijpen aan de hand van de kaarten. Deelnemers worden niet bewust verkeerd laten wandelen: bij foutieve interpretaties sturen we bij en lichten we toe waar de interpretatie fout liep.
+De test bestaat uit een vooraf uitgestippeld traject dat deelnemers afleggen met behulp van opeenvolgende tactiele kaarten. Elke kaart toont een begin- en eindpunt; bij aankomst ontvangen deelnemers een nieuwe kaart. Tijdens het interpreteren van de kaarten wordt de think-aloud-methode toegepast. De kaarten zijn noordgericht en deelnemers worden geïnformeerd wanneer hun GPS-richting hiermee overeenkomt. Indien nodig grijpen we in voor veiligheid of bij foutieve interpretaties, die meteen worden toegelicht. Tijdens de test evalueren we hoe goed deelnemers hun omgeving begrijpen op basis van de kaarten.
 
 
 <p align="center">
@@ -76,64 +90,56 @@ Bij het testen van het totaalconcept kwamen meerdere fundamentele problemen aan 
 
 - De kaart ondersteunt het initiële beslismoment, maar biedt onvoldoende ondersteuning bij het opvolgen van de beweging tijdens het traject
 
+Design Requirements:
 
-
+- D1.4 Orientatie/richting van de route weergeven
+- D2.2 Cognitieve belasting moet zo laag mogelijk zijn
+- D2.3 bruikbaar na een uitlegsessie 
+- D2.6 De bedieningsknoppen moeten een voelbare range hebben
+- D2.8 Het product moet met 1 hand bruikbaar zijn
+- D2.9 Contrast en kleur aanpasbaar aan voorkeur van gebruiker
+- D4.1 Het product moet het zelfvertrouwen van de gebruiker versterken
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen.
+
+De pin matrix blijkt cognitief belastend en verwarrend. Hoewel gebruikers nog steeds globale route-informatie kunnen afleiden  zoals rechtdoor, links of rechts  valt het concept na zo’n beslismoment grotendeels uiteen. Er ontbreekt continuïteit en context om verder te navigeren. Wanneer we schaal verkleinen om deze context te geven. Door de schaal te verkleining wordt de straat- en omgevingslayout te abstract, waardoor de weergegeven informatie moeilijk te interpreteren en praktisch nauwelijks bruikbaar wordt. 
+
+In essentie blijft er een pijl over die een richting aangeeft.
+Hiernaast willen we nog eens dieper ingaan op wat een blinde nodig heeft om comfortabel en zelfzeker een route te bewandelen. Dit bekijken we in iteratie 2.
 
 
-De werking gaat als volgt:
-
-<p align="center">
-  <img src="../img/StoryBoard.jpg" width="100%">
-</p>
-
-Hoe zo een toestel er uit kan zien:
-
-<p align="center">
-  <img src="../img/Tactile GPS.jpg" width="100%">
-</p>
-
- 
-
-In de definitiefase werken we dit concept verder uit door het te concretiseren, inhoudelijk te onderbouwen en kritisch te toetsen op haalbaarheid en relevantie voor de doelgroep. De nadruk ligt hierbij op designing the right thing: het ontwikkelen van een oplossing die vertrekt vanuit reële noden en inzichten, en niet louter vanuit technologische mogelijkheden.
 # Iteratie 2
-Bij de tweede iteratie van het prototype was het doel om na te gaan welke vorm en functionaliteit een hulpmiddel voor blinden en slechtzienden moet hebben. Ons concept bestaat uit een tactiele kaart die gebruikers helpt zich te oriënteren op een grondplan, aangevuld met knoppen die interactie mogelijk maken (zoals zoom, navigatie en extra feedback).Alles testen bij deze iteratie werden gedaan met de mensen ven het oogatelier Kortrijk(testpersonen n=6  ).
+In deze wave willen we volgend concept onderzoeken:
 
-De inzichten die we wouden krijgen met deze iteratie warren:
--	Verdere testen van de tactiele kaart 
--	Wat is de makkelijkste manier waarop zo een product kan gedragen worden?
--	Welke functie zijn nodig om het product bruikbaar te maken? (In de zin van: inzoomen op kaart, geluid instellen, bewegen met de kaart,…)
--	Welke soorten knoppen zijn nodig om de functies uit te voeren en welke soort interfaces zijn bruikbare voor blinden en slechtzienden?
-### Materiaal & methoden
-#### 1.tactiele kaart
-Zoals bij de vorige iteratie werd bij deze test ook nog eens gepolst naar de bruikbaarheid van de tactiele kaart.
 <p align="center">
-  <img src="../img/test kaart.jpg" width="25%">
+  <img src="../img/Storyboard_W2.jpg" width="100%">
 </p>
-Alle vrijwilligen kregen de kaart in handen en deelden in groep hun mening.
-Er werd daarna met twee personen een voor-geplande route afgelegd waarbij ze de kaartjes gebruikten om hun weg te vinden.
 
-#### 2.Gebruiksmethode
-Blinden en slecht zienden lopen bijna altijd met de stok rond hierdoor is er dus nog maar een van hun handen vrij wanneer ze op stap gaan. Daardoor willen we testen op welke manier het product kan gedragen worden. Hiervoor hebben we drie opstellingen: het product los in de ene hand , het product bevestigd aan de arm met behulp van een brace, het product met daaraan een lanyard voor rond de nek te draggen.
-<p align="center">
-  <img src="../img/armband opstelling.jpg" width="25%">
-</p>
-<p align="center">
-  <img src="../img/lanyard opstelling.jpg" width="25%">
-</p>
-De testpersonen kregen elk individueel alle verschillende opstellingen in de hand en mochten daarmee dan ook rondlopen. De meningen van iedereen werden ook in groep besproken.
+Hierbij willen we ook antwoord op volgende vragen:
+1.	Welke informatie is daadwerkelijk nodig om blinden en slechtzienden comfortabel en met vertrouwen te begeleiden tijdens het navigeren?
+2.	In welke situaties en mentale toestanden zou een blinde gebruiker dit product effectief willen gebruiken? 
+3.	Is het mogelijk om blinden en slechtzienden effectief te sturen door uitsluitend (of voornamelijk) richting aan te geven met een pijl, en zo ja, onder welke voorwaarden
 
-#### 3.Bedienings elementen
+### Materiaal & methoden N = 2 
+We doen dit aan de hand van enkele interviews gevolgt door usability testing.
+Tijdens de interviews gaan we nog eens dieper in op de noden van de gebruikers en wanneer zo een toestel handig zou zijn. 
 
-Het product moet natuurlijk te besturen zijn , hiervoor zijn dan ook verschillende inputs voor nodig. Voor dit te testen werd gebruikgemaakt van een adaptief prototype met velcro waar verschillende soorten knoppen, draaiwielen, sliders en joysticks aan bevestigd kunnen worden.
+Bijkoment gaan we op wandel om een simpel pijlprototype te analyseren. Voor deze fase hebben we twee blinden en een begeleidster geraadpleegt.
+
 <p align="center">
-  <img src="../img/input test.jpg" width="25%">
+  <img src="../img/PijlPrototype.jpeg" width="75%">
 </p>
-Deze kunnen dan georiënteerd worden zoals de gebruiker ze het liefst wilt.
+
+<p align="center">
+  <img src="../img/Wegwijzer in het wild.jpeg" width="75%">
+</p>
 
 ### resultaten
-Bij het gebruik van de kaarten waren er meerderen elementen die beter konden. Zo was de kaart niet duidelijk genoeg om een voldoende beeld te krijgen van de omgeving, was er geen verschil in reliëf dus konden trappen en verhogingen niet aangeduid worden, en was er moeite om de kaart duidelijk te oriënteren.
-Het ontwerp met de lanyard bleek goede positieve feedback te hebben, het ontwerp met de brace rond de arm bleek onhandig en zwaar.
-Als input methodes is het gebleken dat knopen met een “sense of range” het beste waren, dit zijn bv de slider en de navigatie pijlen.
+
+Navigatie steunt op zelfvertrouwen, herkenningspunten, herhaling en begeleiding. Voor een blinde persoon zijn de witte stok en een gsm om in noodgevallen hulp te kunnen inschakelen onmisbare hulpmiddelen.
+
+De wereld van blinden is echter zeer divers: geen enkele blinde heeft dezelfde ervaringen, vaardigheden of noden. Tot nu toe kwamen wij voornamelijk in contact met een relatief zelfredzame groep. Een begeleider gaf echter aan dat er ook veel mensen zijn die zonder begeleiding nauwelijks durven bewegen. Voor deze groep zou het wegwijzerconcept een duidelijke meerwaarde kunnen hebben, omdat het actieve ondersteuning en houvast biedt tijdens het navigeren.
+
+Meer zelfzekere gebruikers hebben daarentegen minder nood aan voortdurende begeleiding en eerder aan een hulpmiddel dat hen waarschuwt in rand- of uitzonderingssituaties. Het pinmatrixconcept lijkt vooral geschikt voor gebruik in een thuisomgeving, waar gebruikers een route vooraf kunnen verkennen, voelen en instuderen. In die context is het toestel bovendien niet beperkt door omvang of draagbaarheid.
+
+

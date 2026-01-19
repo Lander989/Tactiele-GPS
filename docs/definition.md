@@ -146,6 +146,10 @@ Bijkoment gaan we op wandel om een simpel pijlprototype te analyseren. Voor deze
 
 Navigatie hangt af van zelfvertrouwen, herkenningspunten, herhaling en begeleiding. Voor blinden zijn een witte stok en een gsm voor noodgevallen essentieel.
 
+<p align="center">
+  <img src="../img/gewogen_matrix.jpg" width="100%">
+</p>
+
 Er is grote diversiteit binnen de blinde gemeenschap: sommige mensen zijn zelfstandig, terwijl anderen zonder begeleiding nauwelijks durven bewegen. Voor hen kan het wegwijzerconcept houvast en actieve ondersteuning bieden. Zelfzekere gebruikers hebben eerder baat bij hulpmiddelen die waarschuwen bij uitzonderingssituaties. Het pinmatrixconcept is vooral geschikt voor thuisgebruik, waar routes vooraf verkend en ingeoefend kunnen worden, zonder beperkingen qua omvang of draagbaarheid.
 
 Design Requirements:

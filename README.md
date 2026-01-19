@@ -8,11 +8,14 @@
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-In de eerste fase van dit project hebben we de wereld van blinden leren kennen. We bezochten een blindenbeurs en gingen in gesprek met mensen met een visuele beperking. Daarbij spraken we over uiteenlopende onderwerpen en verzamelden we veel inzichten.
 
-Een van de belangrijkste observaties die we deden, is de manier waarop blinden zich verplaatsen. We merkten dat zij vaak afhankelijk zijn van aangeleerde trajecten. Deze routes leren zij stap voor stap aan, en na voldoende training kunnen ze deze zelfstandig afleggen.
+Personen met een visuele beperking ervaren vaak onzekerheid tijdens het navigeren. Huidige hulpmiddelen zoals spraak-GPS vragen veel concentratie (hoge cognitieve belasting), terwijl de gebruiker vooral behoefte heeft aan geruststelling en context op aangeleerde trajecten.
 
-Hierop wilden wij inspelen door een oplossing te ontwikkelen die hen hierin ondersteunt. Dit doen we aan de hand van een tactiele GPS. Met behulp van een braillescherm of pin-matrix kunnen blinden een tactiele ‘snapshot’ van hun omgeving voelen. Op die manier kunnen zij de omgeving op een voelbare manier begrijpen. Waar conventionele hulpmiddelen vaak enkel gefocust zijn op de exacte route, biedt dit hulpmiddel een breder beeld van de omgeving.
+Dit probleem hebben wij onderzocht via het Double Diamond-model. Na veldonderzoek (Brailletech) en interviews bleek uit onze testen met een tactiele kaart (wave 1) dat complexe informatie tijdens het wandelen niet werkt. Dit inzicht leidde tot een cruciale pivot.
+
+Onze oplossing is een intuïtief navigatietoestel met een fysiek draaibare pijl, gebaseerd op het ‘Record & Replay’-principe. De gebruiker (of een begeleider) neemt een route eenmalig op, waarna het toestel deze opslaat.
+
+Tijdens het wandelen wijst de pijl continu de juiste richting aan. Hierdoor hoeft de gebruiker geen complexe instructies te verwerken. Het toestel biedt een voelbaar en constant oriëntatiepunt, wat zorgt voor mentale rust en meer zelfvertrouwen, zonder het gehoor te blokkeren.
 
 <p align="center">
   <img src="img\ChatGPT_pijl_protoype.jpg" width="100%">

@@ -15,7 +15,7 @@ Een van de belangrijkste observaties die we deden, is de manier waarop blinden z
 Hierop wilden wij inspelen door een oplossing te ontwikkelen die hen hierin ondersteunt. Dit doen we aan de hand van een tactiele GPS. Met behulp van een braillescherm of pin-matrix kunnen blinden een tactiele ‘snapshot’ van hun omgeving voelen. Op die manier kunnen zij de omgeving op een voelbare manier begrijpen. Waar conventionele hulpmiddelen vaak enkel gefocust zijn op de exacte route, biedt dit hulpmiddel een breder beeld van de omgeving.
 
 <p align="center">
-  <img src="img/Tactile GPS.jpg" width="100%">
+  <img src="img\ChatGPT_pijl_protoype.jpg" width="100%">
 </p>
 
 ## Introductie
@@ -45,7 +45,7 @@ Daarnaast is onze testgroep (N=4) vrij homogeen gebleven. Onze respondenten, zoa
 
 
 ## Noot inzake het gebruik van AI
-In semester 1 maakte alleen Roland gebruik van AI. Hij zette Whisper in om audiobestanden te transcriberen en ChatGPT voor de analyse. Gemini werd gebruikt om de documentatie in github in te korten en vlotter te maken. Corbin en Lander gebruikten geen AI, zowel voor de documentatie als het project.
+In semester 1 maakte alleen Roland gebruik van AI. Hij zette Whisper in om audiobestanden te transcriberen en ChatGPT voor de analyse. Gemini werd gebruikt om de documentatie in github in te korten en vlotter te maken. De afbeelding in de samenvatting is door ChatGPT gegenereerd op basis van geüploade schetsen. Corbin en Lander gebruikten geen AI, zowel voor de documentatie als het project.
 
 ## Bijlagen
 ### Discovery

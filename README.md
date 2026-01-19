@@ -53,7 +53,7 @@ In semester 1 maakte alleen Roland gebruik van AI. Hij zette Whisper in om audio
 
   [- Lander: Protocol literatuurstudie](<./reports and protocols/Protocol Literatuur Studie.pdf>)
   
-  [- Roland: Protocol benchmarking](<./>)
+  [- Roland: Protocol benchmarking](<./reports and protocols/Competitor analysis.pdf>)
   
   [- Corbin: Protocol benchmarking](<./reports and protocols/benchmarking_protocol_corbin_braekevelt.pdf>)
   
@@ -80,7 +80,7 @@ In semester 1 maakte alleen Roland gebruik van AI. Hij zette Whisper in om audio
 ### Definition
 * User testing wave 1 (N=6)
   * [Protocol](<./reports and protocols/Protocol Wave 1.pdf>)
-  * [Rapport](<./reports and protocols/Verslag_wave1.pdf>)
+  * [Rapport](<./reports and protocols/Rapport_Wave1.pdf>)
 * User testing wave 2 (N=2)
   * [Protocol](<./reports and protocols/Protocol Wave 2.pdf>)
   * [Rapport](<./reports and protocols/Rapport Wave 2.pdf>)
